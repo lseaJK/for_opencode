@@ -1,8 +1,8 @@
 # wrangler.toml
-name = "for_opencode"
+name = "4oc"
 compatibility_date = "2026-05-18"
 
 # 静态站点配置
-[assets]
 pages_build_output_dir  = "./public" # 指定静态文件所在目录
 
+send_metrics = false

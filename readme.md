@@ -12,4 +12,4 @@
 
 
 # 项目启动方式
-`npx wrangler pages deploy public`
+`npx wrangler pages dev public`
