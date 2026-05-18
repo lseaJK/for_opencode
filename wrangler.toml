@@ -3,5 +3,6 @@ name = "for_opencode"
 compatibility_date = "2026-05-18"
 
 # 静态站点配置
-[pages]
-build_output_dir = "public" # 指定静态文件所在目录
+[assets]
+pages_build_output_dir  = "./public" # 指定静态文件所在目录
+
